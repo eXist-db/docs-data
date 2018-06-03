@@ -1,3 +1,4 @@
 [submodule "documentation"]
 	path = documentation
 	url = https://github.com/eXist-db/documentation.git
+  branch = data
