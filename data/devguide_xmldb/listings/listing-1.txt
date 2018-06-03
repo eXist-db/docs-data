@@ -1,1 +1,0 @@
-java -jar start.jar org.exist.examples.xmldb.Retrieve [- other options]
